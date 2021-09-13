@@ -4,7 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - tank: {fileID: 919132149155446097, guid: 70d18a653d6194e5cb268ecad95e45ae, type: 3}
+  - tank: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

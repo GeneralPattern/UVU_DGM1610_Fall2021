@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Box_Crate(Clone)
       objectReference: {fileID: 0}
+    - target: {fileID: 3665481788112075605, guid: 181228a3faf31d54381d0aeccdbb67e8, type: 3}
+      propertyPath: m_Mass
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 7810990279052051234, guid: 181228a3faf31d54381d0aeccdbb67e8, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -471,7 +475,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d832164d4dd97e4982449c8f0ada1c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tank: {fileID: 0}
+  tank: {fileID: 879375684}
 --- !u!1001 &992339485
 PrefabInstance:
   m_ObjectHideFlags: 0
